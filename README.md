@@ -112,29 +112,6 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
 
-## Running the Application
-
-1. **Prerequisites**:
-   - Java 17 or higher
-   - Maven
-   - Database (MySQL/PostgreSQL/H2)
-
-2. **Clone and Setup**:
-   ```bash
-   git clone <repository-url>
-   cd department-management-api
-   ```
-
-3. **Configure Database**:
-   - Update `application.properties` with your database settings
-
-4. **Run Application**:
-   ```bash
-   mvn spring-boot:run
-   ```
-
-5. **Access API**:
-   - Base URL: `http://localhost:8080/dept`
 
 ## Testing with Postman
 
