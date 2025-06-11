@@ -1,4 +1,4 @@
-![Screenshot (7)](https://github.com/user-attachments/assets/01955a20-c12d-4dfd-b691-5eb1c0bc8c6a)# day11-12-2025-05-30-31 Class Work
+# day11-12-2025-05-30-31 Class Work
 
 A Spring Boot REST API for managing departments and their employee counts. This application provides endpoints to create, retrieve, and search departments, as well as get employee count information.
 
